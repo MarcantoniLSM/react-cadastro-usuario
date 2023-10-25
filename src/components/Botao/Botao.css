@@ -1,0 +1,14 @@
+.paiBotao{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    width: 100%;
+}
+
+.botao{
+    background-color: blueviolet;
+    padding: 0.5rem;
+    margin: 1rem;
+    color: azure;
+    border-radius: 5px;
+}

@@ -1,0 +1,29 @@
+.tabela{
+    width: 100%;
+    text-align: left;
+}
+
+.tabela thead{
+    background-color: rgba(115, 3, 192,0.7);
+    color: azure;
+    border-radius: 5px;
+}
+
+.tabela *{
+    padding: 1rem;
+}
+
+.tabela .acoes{
+    text-align: center;
+}
+
+.tabela .botoes{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.tabela .botoes button:hover{
+    background-color: azure;
+    border-radius: 10px;
+}

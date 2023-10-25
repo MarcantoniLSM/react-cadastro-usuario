@@ -1,0 +1,10 @@
+.layout{
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    background-color: azure;
+    color: gray;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+}

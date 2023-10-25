@@ -1,0 +1,14 @@
+.entrada{
+    display: flex;
+    flex-direction: column;
+}
+
+.entrada .nome{
+    border: purple solid 1px;
+    border-radius: 5px;
+    padding: 0.2rem;
+}
+
+.entrada .nome:focus{
+    outline: none;
+}
